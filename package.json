@@ -6,6 +6,7 @@
   },
   "devDependencies": {
     "isaac-typescript-definitions": "^40.1.0",
+    "isaacscript-common": "^86.1.0",
     "typescript": "^5.3.3",
     "typescript-to-lua": "^1.23.0"
   },
